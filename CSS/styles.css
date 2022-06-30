@@ -1,0 +1,363 @@
+body {
+  overflow-x: hidden;
+}
+
+.top-container {
+  background-color: rgb(132, 132, 153);
+  text-align: right;
+  padding: 2em 3em 2em 3em;
+  margin-bottom: 0;
+}
+
+h1 {
+  position: relative;
+  right: 1.2em;
+  font-size: 4em;
+}
+
+.position {
+  position: relative;
+  right: 3.5em;
+}
+
+.middle-container {
+  background-color: #dcdcdc;
+  margin-top: 0;
+  float: left;
+  width: 25em;
+  height: 200em;
+  text-align: center;
+  padding: 12em 2em 3em 2em;
+}
+
+a.phone{
+  text-decoration: none;
+  color:rgb(147, 147, 175) ;
+}
+
+a.phone:hover{
+  color:rgba(112, 109, 60, 0.836) ;
+}
+
+a.contact {
+  text-decoration: none;
+  color: rgba(7, 12, 17, 0.822);
+  padding: 8px 10px 8px 10px;
+  margin: 8px;
+  background-color: rgb(147, 147, 175);
+  border-radius: 10px;
+}
+a.contact:hover {
+  background-color: rgba(172, 172, 154, 0.836);
+  color: rgb(22, 21, 21);
+}
+
+.phone,
+.address {
+  font-weight: 600;
+}
+
+h2.intro {
+  display: block;
+  position: relative;
+  left: 2.2em;
+  top: 2.35em;
+}
+
+img.about-me-emoji {
+  display: block;
+  position: relative;
+  width: 30px;
+  left: 1.5em;
+  top: 2em;
+}
+
+p.about-me {
+  position: absolute;
+  left: 29em;
+  top: 21em;
+}
+
+img.chacha {
+  display: block;
+  position: absolute;
+  top: 5em;
+  left: 5em;
+  border-radius: 50%;
+}
+
+img.gmail {
+  position: relative;
+  bottom: 2px;
+  width: 1.3em;
+  display: inline-block;
+}
+
+img.linkedin {
+  position: relative;
+  bottom: 2px;
+  width: 1.3em;
+  display: inline-block;
+}
+
+img.workex {
+  display: block;
+  position: relative;
+  width: 30px;
+  left: 1.5em;
+  top: 22.3em;
+}
+
+h2.workexp {
+  position: relative;
+  left: 2.2em;
+  top: 10em;
+}
+
+p.work-1 {
+  position: relative;
+  top: 21em;
+  left: 4em;
+  overflow-x: hidden;
+}
+
+h6.roles {
+  position: relative;
+  top: 22em;
+  left: 2.5em;
+  font-weight: bold;
+}
+
+ul.roles {
+  position: relative;
+  top: 22.5em;
+  left: 4em;
+}
+
+
+
+hr.work-1 {
+  position: relative;
+  top: 24em;
+  left: 2.5em;
+  border: dotted rgb(140, 140, 199) 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 40px auto 40px auto;
+}
+
+p.work-2 {
+    position: relative;
+    top: 27em;
+    left: 4em;
+    overflow-x: hidden;
+  }
+
+hr {
+  position: relative;
+  top: 26em;
+  width: 20%;
+  left: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 1px rgb(140, 140, 199);
+}
+
+b.duration {
+  font-weight: 600;
+}
+
+h6.roles-aptech {
+  position: relative;
+  top: 28.5em;
+  left: 2.5em;
+  font-weight: bold;
+}
+
+ul.roles-aptech {
+  position: relative;
+  top: 29em;
+  left: 4em;
+}
+
+hr.work-2 {
+  position: relative;
+  top: 32em;
+  left: 2.5em;
+  border: dotted rgb(140, 140, 199) 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 40px auto 40px auto;
+}
+
+p.work-3 {
+  position: relative;
+  top: 34em;
+  left: 4em;
+  overflow-x: hidden;
+}
+
+p.aptech-second-post {
+  position: relative;
+  top: 27em;
+  left: 4em;
+
+  overflow-x: hidden;
+}
+
+h6.roles-easylink {
+  position: relative;
+  top: 36em;
+  left: 2.5em;
+  font-weight: bold;
+}
+
+ul.roles-easylink {
+  position: relative;
+  top: 36.5em;
+  left: 4em;
+}
+
+hr.work-3 {
+  position: relative;
+  top: 38em;
+  left: 2.5em;
+  border: dotted rgb(140, 140, 199) 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 40px auto 40px auto;
+}
+
+p.work-4 {
+  position: relative;
+  top: 40em;
+  left: 4em;
+  overflow-x: hidden;
+}
+
+h6.roles-siemens{
+  position: relative;
+  top: 42em;
+  left: 2.5em;
+  font-weight: bold;
+
+}
+
+ul.roles-siemens{
+  position: relative;
+  top: 43em;
+  left: 4em;
+}
+
+
+
+ul.roles2-siemens{
+  position: relative;
+  top: 44.5em;
+  left: 4em;
+}
+
+ul.roles3-siemens{
+  position: relative;
+  top: 46em;
+  left: 4em;
+}
+
+h3.tech-skills{
+  text-align: left;
+  
+}
+
+p.education{
+  position: relative;
+  top: 50em;
+  left: 4em;
+  overflow-x: hidden;
+}
+
+
+hr.work-4{
+  position: relative;
+  top: 50em;
+  left: 2.5em;
+  border: dotted rgb(140, 140, 199) 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 40px auto 40px auto;
+}
+
+
+div.skills{
+  align-items:flex-end;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  font-family:Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  width: 100%;
+  max-width:400px;
+  padding: 10px 0;
+}
+
+.skill-name{
+  text-align: left;
+  font-size: 15px;
+  font-weight: 700;
+  color:black ;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+.skill-bar{
+  height: 12px;
+  background:rgb(63, 61, 61) ;
+  border-radius: 3px;
+}
+
+.skill-per{
+  height: 12px;
+  background: beige;
+  border-radius: 3px;
+  position: relative;
+  animation:fillBars 2.5s 1;
+}
+
+
+
+
+@keyframes fillBars{
+  from{
+    width: 0;
+  }
+  to{
+    width: 100%;
+  }
+}
+
+
+div.expertise{
+  word-spacing: 210px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: rgb(146, 146, 185);
+  font-weight: 550;
+}
+
+ul.pers-skills{
+  text-align: left;
+  padding: 10px;
+  font-size: large;
+  font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
